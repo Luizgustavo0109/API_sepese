@@ -26,7 +26,7 @@ Este projeto segue a estrutura do Processo Padrão Intersetorial para Mineraçã
 3. Preparação dos Dados
 4. Modelagem
 5. Avaliação
-6. Implantação
+6. Implementação
 
 ## Hipóteses
 
